@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marvel xmlns:ns2="gr.codelearn.jaxb.example.domain" id="2">
+    <color>Green</color>
+    <heroName>Hulk</heroName>
+    <localDateTime>Wednesday 14 December 2022 14:46:42</localDateTime>
+    <abillityList>
+        <abillity>
+            <id>1</id>
+            <name>Smash</name>
+            <powerStatistic>100</powerStatistic>
+        </abillity>
+        <abillity>
+            <id>2</id>
+            <name>Slam</name>
+            <powerStatistic>150</powerStatistic>
+        </abillity>
+    </abillityList>
+</Marvel>
